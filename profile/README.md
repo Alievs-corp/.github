@@ -8,6 +8,19 @@ Building practical software products and engineering standards for modern teams.
 
 At **Alievs-corp**, we create and maintain tools that support product development, engineering workflows, and internal excellence across teams.
 
+## 🏢 About Alievs Space MMC
+
+**Alievs Space MMC** is a **private software company** focused on delivering reliable, modern, and scalable digital products.
+We combine technical depth with practical execution to help businesses launch faster, operate smarter, and grow with confidence.
+
+## 🛠️ Areas of expertise
+
+- **Web Solutions** — Secure and scalable web platforms
+- **Mobile Applications** — Native and cross-platform product development
+- **APIs and Backend Systems** — High-performance and maintainable service architectures
+- **Real-Time Communication** — Low-latency messaging and collaboration systems
+- **Infrastructure and DevOps** — Cloud deployment, automation, and operational reliability
+
 ## 🚀 Our projects
 
 | Project | What it is | Status |
