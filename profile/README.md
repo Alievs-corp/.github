@@ -38,6 +38,7 @@ We combine technical depth with practical execution to help businesses launch fa
 ## 🤝 Community and contributors
 
 We welcome improvements, fixes, ideas, and collaboration from engineers and contributors.
+Below is the contributor graph for our featured open-source project, **ghscope**.
 
 <a href="https://github.com/Alievs-corp/ghscope/graphs/contributors"><img src="https://contrib.rocks/image?repo=Alievs-corp/ghscope" alt="Contributors"></a>
 
