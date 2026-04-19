@@ -1,4 +1,4 @@
-# Alievs-corp
+# Alievs Space MMC
 
 <a href="https://github.com/Alievs-corp"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github" alt="GitHub Organization"></a>
 <a href="https://github.com/orgs/Alievs-corp/people"><img src="https://img.shields.io/badge/Members-People-0969da?style=for-the-badge&logo=github" alt="Organization Members"></a>
@@ -6,7 +6,7 @@
 
 Building practical software products and engineering standards for modern teams.
 
-At **Alievs-corp**, we create and maintain tools that support product development, engineering workflows, and internal excellence across teams.
+At **Alievs Space MMC**, we create and maintain tools that support product development, engineering workflows, and internal excellence across teams.
 
 ## 🏢 About Alievs Space MMC
 
