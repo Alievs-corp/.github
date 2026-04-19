@@ -13,7 +13,7 @@ At **Alievs-corp**, we create and maintain tools that support product developmen
 **Alievs Space MMC** is a **private software company** focused on delivering reliable, modern, and scalable digital products.
 We combine technical depth with practical execution to help businesses launch faster, operate smarter, and grow with confidence.
 
-## 🛠️ Areas of expertise
+## 🛠️ Areas of Expertise
 
 - **Web Solutions**: Secure and scalable web platforms (React, Next.js, TypeScript)
 - **Mobile Applications**: Native and cross-platform product development (Flutter, modern mobile stacks)
