@@ -1,27 +1,40 @@
-# Alievs Space MMC
+# Alievs-corp
 
-**Alievs Space MMC** is a technology company specializing in the design and development of modern software solutions.
-We combine innovation, technical expertise, and reliability to deliver products that meet the highest standards of performance and scalability.
+<a href="https://github.com/Alievs-corp"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&amp;logo=github" alt="GitHub Organization"></a>
+<a href="https://github.com/orgs/Alievs-corp/people"><img src="https://img.shields.io/badge/Members-People-0969da?style=for-the-badge&amp;logo=github" alt="Organization Members"></a>
+<a href="https://github.com/orgs/Alievs-corp/repositories"><img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&amp;logo=github" alt="Organization Repositories"></a>
 
-## About Us
+Building practical software products and engineering standards for modern teams.
 
-At Alievs Space, we develop and maintain our own software products and also collaborate with partner companies to deliver custom projects.
-Our team ensures that every project is completed efficiently, on time, and with a strong focus on quality and long-term sustainability.
+At **Alievs-corp**, we create and maintain tools that support product development, engineering workflows, and internal excellence across teams.
 
-## Areas of Expertise
+## 🚀 Our projects
 
-* **Web Solutions:** Scalable and secure web applications
-* **Mobile Applications:** Native and cross-platform development
-* **APIs and Backend Systems:** High-performance, maintainable architectures
-* **Real-Time Communication Systems:** Low-latency, reliable communication tools
-* **Infrastructure and DevOps:** Complete deployment and cloud management solutions
+| Project | What it is | Status |
+| --- | --- | --- |
+| **<a href="https://github.com/Alievs-corp/ghscope">ghscope</a>** | GitHub activity and contribution reporting with detailed analytics | <img src="https://img.shields.io/github/stars/Alievs-corp/ghscope?style=flat-square" alt="Stars"> <img src="https://img.shields.io/github/forks/Alievs-corp/ghscope?style=flat-square" alt="Forks"> <img src="https://img.shields.io/github/issues/Alievs-corp/ghscope?style=flat-square" alt="Issues"> |
+| **<a href="https://github.com/Alievs-corp/alievsspacemmc">alievsspacemmc</a>** | Official company website and web presence | <img src="https://img.shields.io/github/stars/Alievs-corp/alievsspacemmc?style=flat-square" alt="Stars"> <img src="https://img.shields.io/github/forks/Alievs-corp/alievsspacemmc?style=flat-square" alt="Forks"> <img src="https://img.shields.io/github/issues/Alievs-corp/alievsspacemmc?style=flat-square" alt="Issues"> |
+| **<a href="https://github.com/Alievs-corp/developer-guidelines">developer-guidelines</a>** | Engineering standards, coding practices, and development process documentation | <img src="https://img.shields.io/github/stars/Alievs-corp/developer-guidelines?style=flat-square" alt="Stars"> <img src="https://img.shields.io/github/forks/Alievs-corp/developer-guidelines?style=flat-square" alt="Forks"> <img src="https://img.shields.io/github/issues/Alievs-corp/developer-guidelines?style=flat-square" alt="Issues"> |
 
-## Technologies
+## 🌍 Quick links
 
-We use modern, industry-proven technologies and continuously evolve with emerging trends:
-**Go**, **Python**,**Java**, **JavaScript**, **TypeScript**, **Rust**, **Flask**, **FastAPI**, **Gin**, **Echo**, **React**, **Next.js**, **Flutter**, **PostgreSQL**, **Redis**, **Docker**, **AWS**, **WebSockets**, and more.
+- 🌐 Organization: **<a href="https://github.com/Alievs-corp">github.com/Alievs-corp</a>**
+- 🧩 Repositories: **<a href="https://github.com/orgs/Alievs-corp/repositories">Explore all repositories</a>**
+- 🐞 Issues and feature requests: open issues in each project repository
 
-## Our Commitment
+## 🤝 Community and contributors
 
-We are dedicated to building solutions that are not only functional but also maintainable, efficient, and adaptable to future needs.
-Our mission is to help businesses grow through technology.
+We welcome improvements, fixes, ideas, and collaboration from engineers and contributors.
+
+<a href="https://github.com/Alievs-corp/ghscope/graphs/contributors"><img src="https://contrib.rocks/image?repo=Alievs-corp/ghscope" alt="Contributors"></a>
+
+Want to contribute?
+
+- Check each repository for `good first issue` and `help wanted` labels.
+- Read each repository's `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, and `SECURITY.md` when available.
+
+## 🧭 What we care about
+
+- **Quality** — Reliable, maintainable software with clear standards.
+- **Transparency** — Open collaboration and visible engineering process.
+- **Practicality** — Tools and systems that solve real problems for teams.
