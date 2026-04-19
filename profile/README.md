@@ -15,11 +15,11 @@ We combine technical depth with practical execution to help businesses launch fa
 
 ## 🛠️ Areas of expertise
 
-- **Web Solutions** — Secure and scalable web platforms
-- **Mobile Applications** — Native and cross-platform product development
-- **APIs and Backend Systems** — High-performance and maintainable service architectures
-- **Real-Time Communication** — Low-latency messaging and collaboration systems
-- **Infrastructure and DevOps** — Cloud deployment, automation, and operational reliability
+- **Web Solutions** — Secure and scalable web platforms (React, Next.js, TypeScript)
+- **Mobile Applications** — Native and cross-platform product development (Flutter, modern mobile stacks)
+- **APIs and Backend Systems** — High-performance service architectures (Go, Python, Java, PostgreSQL, Redis)
+- **Real-Time Communication** — Low-latency messaging and collaboration systems (WebSockets, event-driven patterns)
+- **Infrastructure and DevOps** — Cloud deployment and operational reliability (Docker, AWS, CI/CD automation)
 
 ## 🚀 Our projects
 
